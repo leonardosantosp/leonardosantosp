@@ -26,6 +26,7 @@
 <img align="center" alt="nodejs" src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center" alt="jquery" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
  <img align="center" alt="Haskell" src= "https://img.shields.io/badge/Haskell-efefef?style=for-the-badge&logo=haskell&logoColor=black"/>
+ <img align="center" alt="Perl" src= "https://img.shields.io/badge/Perl-efefef?style=for-the-badge&logo=perl&logoColor=white"/>
 
 </div><br/>
 
