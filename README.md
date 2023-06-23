@@ -1,10 +1,12 @@
 
 ### Olá! eu sou o Leonardo Santos 🖐️
 ![Leo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardospaiva04@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo.santos.paiva/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&theme=tokyonight)](https://github.com/leonardosantosp/github-readme-stats)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardospaiva04@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo.santos.paiva/)
 
 
 ## Tecnologias que utilizo
