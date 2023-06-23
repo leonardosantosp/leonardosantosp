@@ -19,7 +19,7 @@
 ## Tecnologias que ja utilizei
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="c" src= "https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img align="center" alt="c" src= "https://img.shields.io/badge/c-A8B9CC?style=for-the-badge/>
 
 
 
