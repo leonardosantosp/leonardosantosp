@@ -20,7 +20,7 @@
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="c" src= "https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="center" alt="c++" src= "https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img align="center" alt="cplusplus" src= "https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </div><br/>
 
 ## Atualmente ando estudando
