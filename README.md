@@ -19,7 +19,7 @@
 ## Tecnologias que ja utilizei
 
 <div style="display: inline_block"><br/>
-<img align="center" src= "https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logoColor=white"/>
+<img align="center" alt="mysql" src= "https://img.shields.io/badge/c-#A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 
 
 
