@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo.santos.paiva/)
 ![Leo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&theme=tokyonight)](https://github.com/leonardosantosp/github-readme-stats)
 ## Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
@@ -13,7 +14,7 @@
 <img align="center" alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="center" alt="mysql" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&theme=tokyonight)](https://github.com/leonardosantosp/github-readme-stats)
+
 
 ## Tecnologias que ja utilizei
 
