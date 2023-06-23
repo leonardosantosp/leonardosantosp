@@ -20,7 +20,7 @@
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="c" src= "https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img align="center" alt="cpp" src= "https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cpp&logoColor=black"/>
+<img align="center" alt="c++" src= "https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=black"/>
 
 
 
