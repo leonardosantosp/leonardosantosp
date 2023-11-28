@@ -2,8 +2,7 @@
 ### Olá! eu sou o Leonardo Santos 🖐️
 ![Leo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&theme=tokyonight)](https://github.com/leonardosantosp/github-readme-stats)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&langs_count=7&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardospaiva04@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo.santos.paiva/)
 
