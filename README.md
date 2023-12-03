@@ -1,8 +1,10 @@
 
-### Olá! eu sou o Leonardo Santos 🖐️
-![Leo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00686c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+dos+Santos+Paiva;I'm+18+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&langs_count=7&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
+<div align="center">
+  ![Leo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&langs_count=7&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
+</div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardospaiva04@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo.santos.paiva/)
