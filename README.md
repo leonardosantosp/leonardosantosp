@@ -8,7 +8,7 @@
 
 </div>
 
-![Leo Santos's contribuition](https://activity-graph.herokuapp.com/graph?username=leonardosantosp&theme=gotham&shide_border=true&area=true)
+[![Leo Santos's contribuition](https://activity-graph.herokuapp.com/graph?username=leonardosantosp&theme=gotham&shide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=leonardosantosp&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardospaiva04@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo.santos.paiva/)
