@@ -2,10 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00686c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+dos+Santos+Paiva;I'm+18+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight" alt="Leo Santos's GitHub stats">  
   
-  ![Leo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight)
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&langs_count=7&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&langs_count=7&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
 
 </div>
 
