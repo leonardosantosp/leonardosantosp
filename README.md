@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LEONARDO+DOS+SANTOS+PAIVA;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Leonardo+dos+Santos+Paiva;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight&title_color=15e5a6" alt="Leo Santos's GitHub stats">  
