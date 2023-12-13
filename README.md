@@ -4,7 +4,7 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight" alt="Leo Santos's GitHub stats">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&langs_count=7&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&langs_count=7&title_color=15e5a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
 
 </div>
 
