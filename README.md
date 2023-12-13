@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00686c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+LEONARDO+DOS+SANTOS+PAIVA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight" alt="Leo Santos's GitHub stats">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight&title_color=15e5a6" alt="Leo Santos's GitHub stats">  
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&langs_count=7&title_color=15e5a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
 
