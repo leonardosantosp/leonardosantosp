@@ -32,8 +32,6 @@
 [![Tools](https://skillicons.dev/icons?i=py,kotlin,nodejs,jquery)](https://skillicons.dev)
 
 ## Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardospaiva04@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo.santos.paiva/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/leonardo.santos.paiva/)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leonardo-santos-99424b300/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:leonardospaiva04@gmail.com)
