@@ -32,8 +32,7 @@
 [![Tools](https://skillicons.dev/icons?i=py,kotlin,nodejs,jquery)](https://skillicons.dev)
 
 ## Contact
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/leonardo.santos.paiva/)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leonardo-santos-99424b300/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leonardo-paiva-8a1526242/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:leonardospaiva04@gmail.com)
 </div><br/>
 <div align="center">
