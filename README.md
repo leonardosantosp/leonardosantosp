@@ -10,26 +10,26 @@
 
 [![Leo Santos's contribuition](https://github-readme-activity-graph.vercel.app/graph?username=leonardosantosp&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Skills
-[![Back-End](https://skillicons.dev/icons?i=c,cpp,java,js,mysql,haskell,perl)](https://skillicons.dev)
+## Languages
+[![Back-End](https://skillicons.dev/icons?i=java,js,ts,mysql)](https://skillicons.dev)
 
-## Front-End Skills
-[![Front-End](https://skillicons.dev/icons?i=html,css,react,js,bootstrap,wordpress)](https://skillicons.dev)
+## Back-End
+[![Back-End](https://skillicons.dev/icons?i=nodejs,nestjs,express,spring)](https://skillicons.dev)
+
+## Front-End
+[![Front-End](https://skillicons.dev/icons?i=html,css,react,nextjs,js,bootstrap,wordpress,figma)](https://skillicons.dev)
 
 ## Database Skills
-[![Database](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis)](https://skillicons.dev)
 
-## Frameworks Skills
-[![Frameworks](https://skillicons.dev/icons?i=gradle,spring)](https://skillicons.dev)
+## DevOps
+[![Tools](https://skillicons.dev/icons?i=docker,kafka)](https://skillicons.dev)
 
 ## Tools I Use
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,maven,replit,blender,figma)](https://skillicons.dev)
-
-## Other Knowledge
-[![Tools](https://skillicons.dev/icons?i=arduino,r)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,maven,replit,postman,figma)](https://skillicons.dev)
 
 ## Currently Studying
-[![Tools](https://skillicons.dev/icons?i=py,kotlin,nodejs,jquery)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=py,kotlin,go,graphql,tailwind,vue)](https://skillicons.dev)
 
 ## Contact
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leonardo-paiva-8a1526242/)
