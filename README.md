@@ -1,39 +1,106 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leonardo+dos+Santos+Paiva!;Be+Welcome!)](https://git.io/typing-svg)
+<!-- Título animado -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Leonardo+dos+Santos+Paiva!;Seja+bem-vindo(a)+ao+meu+GitHub!+🚀" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight&title_color=15e5a6" alt="Leo Santos's GitHub stats">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosp&layout=compact&langs_count=7&title_color=15e5a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
+<!-- Badges de contato -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardospaiva">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:leonardospaiva04@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://leo-portfolio-three.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+</p>
 
-</div>
+---
 
-[![Leo Santos's contribuition](https://github-readme-activity-graph.vercel.app/graph?username=leonardosantosp&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 👨‍💻 Sobre mim
 
-## Languages
-[![Back-End](https://skillicons.dev/icons?i=java,js,ts,mysql)](https://skillicons.dev)
+Sou **Desenvolvedor Full Stack com foco em Backend**, apaixonado por criar soluções robustas, seguras e com propósito. Tenho experiência prática construindo **APIs escaláveis**, **sistemas com CI/CD**, **interfaces modernas** e **plataformas administrativas utilizadas por instituições reais**.
 
-## Back-End
-[![Back-End](https://skillicons.dev/icons?i=nodejs,nestjs,express,spring)](https://skillicons.dev)
+---
 
-## Front-End
-[![Front-End](https://skillicons.dev/icons?i=html,css,react,nextjs,js,bootstrap,wordpress,figma)](https://skillicons.dev)
+### 🚀 Stack Principal
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,spring,js,react,mongodb,postgres,docker" alt="Tech stack" />
+  </a>
+</p>
 
-## Database Skills
-[![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis)](https://skillicons.dev)
+---
 
-## DevOps
-[![Tools](https://skillicons.dev/icons?i=docker,kafka)](https://skillicons.dev)
+### 🧠 Destaques Técnicos
 
-## Tools I Use
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,git,github,maven,replit,postman,figma)](https://skillicons.dev)
+- 🏀 **Scraper NBA + painel interativo**: coleta automática de dados da ESPN com exibição responsiva  
+- 🛠 **Portfólio completo com painel admin**: CI/CD, autenticação JWT e gerenciamento via API  
+- 🧩 **Sites reais de eventos acadêmicos**: usados no ERMAC 2025 (UFLA) e PET-Fisioterapia (UNIFAL)  
+- 📈 **Projetos com deploy público e código limpo**: sempre priorizando organização, testes e usabilidade  
 
-## Currently Studying
-[![Tools](https://skillicons.dev/icons?i=py,kotlin,go,graphql,tailwind,vue)](https://skillicons.dev)
+---
 
-## Contact
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leonardo-paiva-8a1526242/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:leonardospaiva04@gmail.com)
+### 🌟 Projetos em Destaque
+
+🎧 **Full Stack Spotify Clone**  
+Sistema completo com login, player funcional, integração com API e design responsivo.  
+🔗 [Acessar projeto](https://full-stack-spotify-frontend-production.up.railway.app/)  
+📹 [Ver vídeo de demonstração](https://youtu.be/SjV-XXiyiss)
+
+🏀 **Scraper NBA com Painel Interativo**  
+Coleta automatizada de estatísticas da NBA usando Python e BeautifulSoup + frontend em React.  
+🔗 [Ver online](https://web-scraping-espn.vercel.app/)  
+📹 [Vídeo explicativo](https://youtu.be/-BXK3HkDqrs)
+
+🛠 **Portfólio com Painel Administrativo**  
+Sistema com painel de gerenciamento (Acesse o painel em `/admin-page`), autenticação segura e CI/CD.  
+🔗 [Ver portfólio](https://leo-portfolio-three.vercel.app/)  
+
+---
+
+### 💼 Em busca de oportunidades
+
+Estou aberto a vagas como **Desenvolvedor Backend ou Full Stack Júnior**, com foco em:
+
+- APIs RESTful  
+- Arquitetura de software  
+- Dados e automações  
+- Times que valorizem aprendizado e entrega com qualidade  
+
+---
+
+### 📊 Estatísticas & Atividade
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=leonardosantosp&show_icons=true&theme=tokyonight&title_color=15e5a6" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardosantosp&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardosantosp&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardosantosp&theme=tokyonight" />
+</p>
+
+---
+
+### 👥 Interações
+
+<p align="center">
+  <a href="https://github.com/leonardosantosp?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/leonardosantosp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+  </a>
+  <a href="https://github.com/leonardosantosp?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/leonardosantosp?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" />
+  </a>
+</p>
+
 </div><br/>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
