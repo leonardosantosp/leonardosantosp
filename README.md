@@ -49,28 +49,15 @@ Sou **Desenvolvedor Full Stack com foco em Backend**, apaixonado por criar solu�
 
 🎧 **Full Stack Spotify Clone**  
 Sistema completo com login, player funcional, integração com API e design responsivo.  
-🔗 [Acessar projeto](https://full-stack-spotify-frontend-production.up.railway.app/)  
 📹 [Ver vídeo de demonstração](https://youtu.be/SjV-XXiyiss)
 
 🏀 **Scraper NBA com Painel Interativo**  
 Coleta automatizada de estatísticas da NBA usando Python e BeautifulSoup + frontend em React.  
-🔗 [Ver online](https://web-scraping-espn.vercel.app/)  
 📹 [Vídeo explicativo](https://youtu.be/-BXK3HkDqrs)
 
 🛠 **Portfólio com Painel Administrativo**  
 Sistema com painel de gerenciamento (Acesse o painel em `/admin-page`), autenticação segura e CI/CD.  
 🔗 [Ver portfólio](https://leo-portfolio-three.vercel.app/)  
-
----
-
-### 💼 Em busca de oportunidades
-
-Estou aberto a vagas como **Desenvolvedor Backend ou Full Stack Júnior**, com foco em:
-
-- APIs RESTful  
-- Arquitetura de software  
-- Dados e automações  
-- Times que valorizem aprendizado e entrega com qualidade  
 
 ---
 
